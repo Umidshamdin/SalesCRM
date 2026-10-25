@@ -1,0 +1,17 @@
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\bin\Debug\net10.0\SalesCRM.Persistence.deps.json
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\bin\Debug\net10.0\SalesCRM.Persistence.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\bin\Debug\net10.0\SalesCRM.Persistence.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\bin\Debug\net10.0\SalesCRM.Application.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\bin\Debug\net10.0\SalesCRM.Domain.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\bin\Debug\net10.0\SalesCRM.Application.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\bin\Debug\net10.0\SalesCRM.Domain.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\obj\Debug\net10.0\SalesCRM.Persistence.csproj.AssemblyReference.cache
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\obj\Debug\net10.0\SalesCRM.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\obj\Debug\net10.0\SalesCRM.Persistence.AssemblyInfoInputs.cache
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\obj\Debug\net10.0\SalesCRM.Persistence.AssemblyInfo.cs
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\obj\Debug\net10.0\SalesCRM.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\obj\Debug\net10.0\SalesCRM.E7F33559.Up2Date
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\obj\Debug\net10.0\SalesCRM.Persistence.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\obj\Debug\net10.0\refint\SalesCRM.Persistence.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\obj\Debug\net10.0\SalesCRM.Persistence.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Persistence\obj\Debug\net10.0\ref\SalesCRM.Persistence.dll

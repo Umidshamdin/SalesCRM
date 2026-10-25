@@ -1,0 +1,15 @@
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\bin\Debug\net10.0\SalesCRM.Application.deps.json
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\bin\Debug\net10.0\SalesCRM.Application.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\bin\Debug\net10.0\SalesCRM.Application.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\bin\Debug\net10.0\SalesCRM.Domain.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\bin\Debug\net10.0\SalesCRM.Domain.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\obj\Debug\net10.0\SalesCRM.Application.csproj.AssemblyReference.cache
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\obj\Debug\net10.0\SalesCRM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\obj\Debug\net10.0\SalesCRM.Application.AssemblyInfoInputs.cache
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\obj\Debug\net10.0\SalesCRM.Application.AssemblyInfo.cs
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\obj\Debug\net10.0\SalesCRM.Application.csproj.CoreCompileInputs.cache
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\obj\Debug\net10.0\SalesCRM.4B084D33.Up2Date
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\obj\Debug\net10.0\SalesCRM.Application.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\obj\Debug\net10.0\refint\SalesCRM.Application.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\obj\Debug\net10.0\SalesCRM.Application.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Application\obj\Debug\net10.0\ref\SalesCRM.Application.dll

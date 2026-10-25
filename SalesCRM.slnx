@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SalesCRM.API/SalesCRM.API.csproj" />
+  <Project Path="SalesCRM.Application/SalesCRM.Application.csproj" />
+  <Project Path="SalesCRM.Domain/SalesCRM.Domain.csproj" />
+  <Project Path="SalesCRM.Infrastructure/SalesCRM.Infrastructure.csproj" />
+  <Project Path="SalesCRM.Persistence/SalesCRM.Persistence.csproj" />
+</Solution>

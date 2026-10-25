@@ -1,0 +1,17 @@
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\bin\Debug\net10.0\SalesCRM.Infrastructure.deps.json
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\bin\Debug\net10.0\SalesCRM.Infrastructure.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\bin\Debug\net10.0\SalesCRM.Infrastructure.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\bin\Debug\net10.0\SalesCRM.Application.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\bin\Debug\net10.0\SalesCRM.Domain.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\bin\Debug\net10.0\SalesCRM.Application.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\bin\Debug\net10.0\SalesCRM.Domain.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\obj\Debug\net10.0\SalesCRM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\obj\Debug\net10.0\SalesCRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\obj\Debug\net10.0\SalesCRM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\obj\Debug\net10.0\SalesCRM.Infrastructure.AssemblyInfo.cs
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\obj\Debug\net10.0\SalesCRM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\obj\Debug\net10.0\SalesCRM.3954E7F8.Up2Date
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\obj\Debug\net10.0\SalesCRM.Infrastructure.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\obj\Debug\net10.0\refint\SalesCRM.Infrastructure.dll
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\obj\Debug\net10.0\SalesCRM.Infrastructure.pdb
+C:\Users\Umid\OneDrive\Desktop\SalesCRM\SalesCRM\SalesCRM.Infrastructure\obj\Debug\net10.0\ref\SalesCRM.Infrastructure.dll
